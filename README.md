@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Augusto</h1>
+<h1 align="center">Hola 👋, soy Augusto</h1>
 <h3 align="center">Estudiante de Análisis de Sistemas con orientación en el Desarrollo .NET y la POO</h3>
 
 - 🌱 Actualmente me encuentro aprendiendo **JavaScript, HTML, CSS**
