@@ -1,11 +1,13 @@
 <h1 align="center">Hola 👋, Soy Augusto</h1>
-<h3 align="center">Estudiante de Análisis de Sistemas con orientación en el Desarrollo .NET</h3>
+<h3 align="center">Estudiante de Análisis de Sistemas con orientación en el Desarrollo .NET y la POO</h3>
 
 - 🌱 Actualmente me encuentro aprendiendo **JavaScript, HTML, CSS**
 
 - 💬 Pregúntame sobre **C#, ADO.NET, SQL, LINQ**
 
 - 📫 Cómo contactarme **augustofherrera@hotmail.com**
+
+- 📄 Conoce mi experiencia [He trabajado en la elaboración de proyectos Windows Forms programados con C#; y con Bases de Datos Relacionales (Microsoft Access) conectadas con ADO.NET, LINQ y SQL.](He trabajado en la elaboración de proyectos Windows Forms programados con C#; y con Bases de Datos Relacionales (Microsoft Access) conectadas con ADO.NET, LINQ y SQL.)
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
