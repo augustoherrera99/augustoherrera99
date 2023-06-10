@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Augusto</h1>
 <h3 align="center">Estudiante de Análisis de Sistemas con orientación en el Desarrollo .NET y la POO</h3>
 
-- 🌱 Actualmente me encuentro aprendiendo **JavaScript, HTML, CSS**
+- 🌱 Actualmente me encuentro aprendiendo **JavaScript, TypeScript, HTML, CSS**
 
 - 💬 Pregúntame sobre **C#, ADO.NET, SQL, LINQ**
 
